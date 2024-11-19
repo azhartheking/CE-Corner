@@ -1,0 +1,6 @@
+streamlit
+openpyxl
+openpyxl.drawing.image
+openpyxl.chart
+datetime
+pandas
