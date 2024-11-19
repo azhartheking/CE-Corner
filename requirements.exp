@@ -4,3 +4,4 @@ openpyxl.drawing.image
 openpyxl.chart
 datetime
 pandas
+BarChart, Reference
